@@ -1,0 +1,20 @@
+{
+    "name": "typescript-template",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/index.js",
+    "scripts": {
+      "build": "tsc",
+      "dev": "tsc --watch",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Tama Rifky",
+    "license": "ISC",
+    "dependencies": {
+      "chalk": "^4.1.2",
+      "cnp": "^1.0.3",
+      "esm": "^3.2.25",
+      "ncp": "^2.0.0"
+    }
+  }
